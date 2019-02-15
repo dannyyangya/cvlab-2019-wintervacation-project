@@ -55,4 +55,7 @@ $ ls ccpd5000/**/*.jpg | wc -l # expected 6000 (5000 train/valid + 1000 test)
 
    * mMSE: 0.00022366149761249992
 
-![](testimage\000_vis.jpg)
+### Testing images
+![](/testimage/000_vis.jpg)
+
+![](/testimage/099_vis.jpg)
