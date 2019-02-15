@@ -55,4 +55,4 @@ $ ls ccpd5000/**/*.jpg | wc -l # expected 6000 (5000 train/valid + 1000 test)
 
    * mMSE: 0.00022366149761249992
 
-![Alt text](C:\Users\user\Desktop\清大入學前資料\寒假實習\我的結果\年前結果\testimage\000_vis.jpg)
+![](testimage\000_vis.jpg)
