@@ -43,7 +43,7 @@ $ ls ccpd5000/**/*.jpg | wc -l # expected 6000 (5000 train/valid + 1000 test)
 
 ## testing result
 
-*　MSE of each corner:
+*MSE of each corner:
 
    * BR: 0.0002553341970499999
 
