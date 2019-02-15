@@ -40,3 +40,17 @@ $ ls ccpd5000/**/*.jpg | wc -l # expected 6000 (5000 train/valid + 1000 test)
 
 6. Try other kind of loss:
     * Have tried SmoothL1Loss, BCELoss, and MSELoss. But L1Loss still have the best performance on mse in this case.
+
+## testing result
+
+*　MSE of each corner:
+
+   * BR: 0.0002553341970499999
+
+   * BL: 0.0001913923876
+
+   * TL: 0.00019788152704999993
+
+   * TR: 0.00025003787874999984
+
+* mMSE: 0.00022366149761249992
